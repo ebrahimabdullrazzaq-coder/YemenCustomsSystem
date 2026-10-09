@@ -1,0 +1,60 @@
+[
+  {
+    "Code": "ar",
+    "Name": "العربية",
+    "Flag": "🇾🇪",
+    "Translations": {
+      "menu_setup": "⚙️ تهيئة النظام",
+      "menu_operations": "📋 العمليات",
+      "menu_reports": "📊 التقارير",
+      "menu_exit": "🚪 خروج",
+      "menu_currencies": "💱 تهيئة العملات",
+      "menu_ports": "🚢 تهيئة المنافذ",
+      "menu_warehouses": "🏢 تهيئة المخازن",
+      "menu_items": "📦 تهيئة الأصناف",
+      "menu_items_data": "📋 بيانات الأصناف",
+      "menu_customs_clearance": "🛃 شاشة التخليص الجمركي",
+      "menu_stock_transfer": "🚚 نقل من المنفذ إلى المخزن",
+      "menu_warehouse_transfer": "🏚️ نقل بين المخازن",
+      "btn_save": "💾 حفظ",
+      "btn_new": "🆕 جديد",
+      "btn_edit": "✏️ تعديل",
+      "btn_delete": "🗑️ حذف",
+      "btn_search": "🔍 بحث",
+      "btn_export": "📤 تصدير",
+      "btn_print": "🖨️ طباعة",
+      "btn_exit": "🚪 خروج",
+      "btn_home": "🏠 الرئيسية",
+      "welcome_title": "نظام الجمارك اليمنية المتكامل"
+    }
+  },
+  {
+    "Code": "en",
+    "Name": "English",
+    "Flag": "🇬🇧",
+    "Translations": {
+      "menu_setup": "⚙️ System Setup",
+      "menu_operations": "📋 Operations",
+      "menu_reports": "📊 Reports",
+      "menu_exit": "🚪 Exit",
+      "menu_currencies": "💱 Currencies Setup",
+      "menu_ports": "🚢 Ports Setup",
+      "menu_warehouses": "🏢 Warehouses Setup",
+      "menu_items": "📦 Items Setup",
+      "menu_items_data": "📋 Items Data",
+      "menu_customs_clearance": "🛃 Customs Clearance",
+      "menu_stock_transfer": "🚚 Port to Warehouse Transfer",
+      "menu_warehouse_transfer": "🏚️ Warehouse to Warehouse Transfer",
+      "btn_save": "💾 Save",
+      "btn_new": "🆕 New",
+      "btn_edit": "✏️ Edit",
+      "btn_delete": "🗑️ Delete",
+      "btn_search": "🔍 Search",
+      "btn_export": "📤 Export",
+      "btn_print": "🖨️ Print",
+      "btn_exit": "🚪 Exit",
+      "btn_home": "🏠 Home",
+      "welcome_title": "Yemen Customs Integrated System"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+﻿# ===== ملفات Visual Studio =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.psess
+*.vsp
+*.vspx
+
+# ===== مجلدات البناء (Build) - لا تُرفع أبداً =====
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+bld/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# ===== حزم NuGet =====
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ===== قاعدة البيانات SQLite (مهم جداً - حماية بياناتك) =====
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+Database/*.db
+
+# ===== ملفات السجلات والمؤقتات =====
+*.log
+*.tmp
+*.bak
+*.cache
+*.old
+
+# ===== ملفات نظام Windows =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== ملفات نظام Mac =====
+.DS_Store
+
+# ===== نتائج الاختبارات =====
+TestResults/
+*.trx
+*.coverage
+coverage*.json
+coverage*.xml
+coverage*.db
+
+# ===== أدوات التحليل =====
+StyleCopReport.xml
+*.sdf
+*.opensdf
+*.suo.lock
